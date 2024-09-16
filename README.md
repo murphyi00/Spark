@@ -87,20 +87,20 @@ Upload the Dataset:
 Upload heart_2022_no_nans.csv to the working directory in Colab or ensure it's accessible in your local environment.
 Run the Notebook:
 
-Execute each cell sequentially to reproduce the analysis.
+### Execute each cell sequentially to reproduce the analysis.
 Project Structure
 Healthcare_Dataset_Analysis.ipynb: The main notebook containing all code and explanations.
 heart_2022_no_nans.csv: The dataset used for analysis (ensure compliance with data sharing policies before including this in a public repository).
 README.md: Project documentation and overview.
-Future Improvements
+### Future Improvements
 Feature Expansion: Incorporate additional variables or external datasets to enrich the analysis.
 Advanced Modeling: Experiment with other machine learning algorithms like Random Forests, Gradient Boosting, or Neural Networks.
 Hyperparameter Tuning: Use techniques like Grid Search or Cross-Validation to optimize model performance.
 Deployment: Create a web application or dashboard to make the analysis interactive and accessible to stakeholders.
 Data Privacy: Implement measures to ensure data privacy and compliance with regulations like HIPAA if working with sensitive information.
-Conclusions
+### Conclusions
 The analysis provided insights into the health status and risk factors of individuals in the dataset.
-Machine learning models identified significant predictors for health outcomes like the likelihood of testing positive for COVID-19.
+Machine learning models identified significant predictors for health outcomes like the likelihood of angina or heart attack.
 The project demonstrates the utility of PySpark for handling large datasets and performing complex transformations efficiently.
 Contact Information
 For questions, suggestions, or collaborations, please reach out via:
